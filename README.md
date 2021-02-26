@@ -1,5 +1,5 @@
 # site-finans
-Projeto da página finans ,  utilizando bootstrap, feito através do conteúdo elaborado pelo curso da Udemy de dev web pelo professor Jair Damasceno.
+Projeto da página finans ,  utilizando bootstrap para realizar uma página responsiva  feito através do conteúdo elaborado pelo curso da Udemy de dev web pelo professor Jair Damasceno.
 
 
 
